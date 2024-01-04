@@ -1,4 +1,3 @@
-# calculator
-## Calculator project done in ITC 
+# Calculator project done in ITC 
 
-Dounload the 3 items and doble click on the html file
+To use the calculator click on this [link](file:///Users/galk/Desktop/Code/Calculator/index.html), or download the files and double click on the .html file
